@@ -2,4 +2,4 @@
 
 Builds a page with eight nonsens haikus
 
-from_different_angles_1.jpeg
+![](from_different_angles_1.jpeg)
