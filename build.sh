@@ -6,4 +6,5 @@ ps2pdf from_different_angles.ps
 
 gs -r300  -sDEVICE=jpeg -sOutputFile=from_different_angles_%d.jpeg - < from_different_angles.ps
 
+pdftocairo from_different_angles.pdf -svg from_different_angles.svg
 
